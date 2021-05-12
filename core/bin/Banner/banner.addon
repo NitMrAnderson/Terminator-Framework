@@ -1,0 +1,2 @@
+command = "banner"
+main_file = "banner.py"

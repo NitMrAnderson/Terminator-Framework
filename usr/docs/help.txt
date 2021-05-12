@@ -1,0 +1,16 @@
+List of the commands:
+        1) exit  # Exit from framework command line
+        2) restart  # Restart Terminator
+        3) clear  # Clear console
+        4) plugins  # Return plugins list
+        5) history
+            usage:
+            history (without any args)  # Just return a history of the commands
+            history -c  # Clear history log
+        6) about  # In about may be decription, usege cases, history of plugin and else
+            usage:
+            about <plugin name> # return info about plugin
+        7) help  # In help may be exaples of usage plugin, args and else
+            usage:
+                help # Return this message
+                help <plugin name> # Return help about plugins.

@@ -1,0 +1,5 @@
+ Some good tips for users:
+  1) To add your banner just add .txt file into the /usr/Banners directory
+  2) To add plugin in the terminator framework just copy dir with your plugin into the /core/bin directory
+  3) To use web interface run serve -w and follow to http://localhost:1235/skynet (Doesn't work yet)
+ Happy hacking!
